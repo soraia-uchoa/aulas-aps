@@ -69,3 +69,50 @@ TEMA:DIAGRAMA DE CADASTRO DE UMA BIBLIOTECA:
 ->[CADASTRO CONCLUÍDO]
 -> SIM: [CONCLUIR CADASTRO]
 -> NÃO: [INFORMAR ALUNO O ERRO]
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+aula do dia 20-05
+Análise e projeto de sistemas
+tema: viabilidade, riscos e documentação em projetos de sftware 
+
+- por que avaliar antes de desenvolver?
+
+um projeto mal planejado pode:
+-esrourar o orçamento.
+-perder o prazo.
+-criar sistemas inúteis ou com falhas graves.
+
+3 aspectos essenciais de um projeto:
+1.**Viabilidade**
+
+TIPO           O QUE AVALIA?                               EXEMPLO                                
+Técnica        A tecnologia necessaria está disponivel?     A equipe sabe usar React?
+economico      O custo vale apena?                          R$5K para algo que trará R$200 de retorno?
+legal          Está de acordo com leis e normas?            LGPD, direitos autorais Sistemas de tofolist
+operacional    Os usuarios saberão usar? o sistema          ou sistema simples para idoso
+               se adapta á rotina do usuario?
+cronograma     Dá tempo de fazer?                           1 mês para desenvolver algo levaria 3 meses
+
+
+
+2.**Análise de riscos**
+é qualquer fator que possa atrapalhar ou impedir o sucesso do meu projeto.
+Técnico: usar uma tecnologia pouco conhecida
+de requisitos: requisitos mal definidos.
+de conograma: prazos curtos ou equipe reduzida.
+humanos: rotatividade da equipe, falta de experiência.
+externos: leis novas, fornecedores que faltam.
+
+Matriz de risco (Impacto x probabilidade):
+                       impacto
+                 baixa         alta
+              +---------------------------+
+ baixa        |   ok       |   cuidado    |
+ alta         +---------------------------+
+probabilidade |   alerta   |   perigo!    |
+              +---------------------------+
+
+3.**Documentação de requisitos**
+
+
